@@ -7,9 +7,11 @@
 (https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
 ## Screenshots:
 * Load the list
+<br/>
 
 ![Load All ](https://github.com/lipingwucs/ReactCardList/blob/main/screenshots/LoadAll.jpg)
 
+<br/>
 * Clear list
 ![Clear All ](https://github.com/lipingwucs/ReactCardList/blob/main/screenshots/ClearAll.jpg)
 
