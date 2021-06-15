@@ -11,8 +11,8 @@
 
 ![Load All ](https://github.com/lipingwucs/ReactCardList/blob/main/screenshots/LoadAll.jpg)
 
-<br/>
-* Clear list
+
+* Clear list <br/>
 ![Clear All ](https://github.com/lipingwucs/ReactCardList/blob/main/screenshots/ClearAll.jpg)
 
 
