@@ -5,12 +5,10 @@ function App() {
   const [people, setPeople] = useState(data);   //intial status, load all data
   return(
     <main>
-      <section>
+      <section className='container'>
         <h3> {people.length} birthdays today</h3>
-        <List people = {people} />
-    
-        <button onClick = {() =>setPeople([])}> Clear All </button>
-        <button onClick = {() =>setPeople([data])}> Load All </button>
+        <List people = {people} key = {people.id} />    
+        <button onClick = {() =>setPeople([])}> Clear All </button>           
       </section>
     </main>
   );

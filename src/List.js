@@ -13,11 +13,10 @@ const List = ({people}) => {
                <h4> {name} </h4>
                <p> {age} years  from {city}, {country}</p>
              </div>
-
            </article>
          );
 
-       } )
+       })
      }
     </>
   );
